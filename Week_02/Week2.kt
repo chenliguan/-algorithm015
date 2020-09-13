@@ -12,7 +12,7 @@ import com.seniorlibs.baselib.utils.LogUtils
 /**
  * Week2
  */
-class Week2  {
+class Week2 {
 
     /**
      * 206. 反转链表
